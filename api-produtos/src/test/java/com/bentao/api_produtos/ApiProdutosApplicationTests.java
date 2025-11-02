@@ -1,10 +1,10 @@
-package br.gov.sp.etec.bentao.api_teste;
+package com.bentao.api_produtos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiTesteApplicationTests {
+class ApiProdutosApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package br.gov.sp.etec.bentao.api_teste;
+package com.bentao.api_produtos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiTesteApplication {
+public class ApiProdutosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiTesteApplication.class, args);
+		SpringApplication.run(ApiProdutosApplication.class, args);
 	}
 
 }
